@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate learner in data science, machine 
 
 ## 📚 What I'm Learning
 
-- Data Structures and Algorithms (in C and Python)
+- Data Structures and Algorithms (in C/C++ and Python)
 - Python for Data Science
 - SQL and Database Management
 - Machine Learning with Scikit-learn
